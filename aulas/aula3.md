@@ -317,3 +317,8 @@ __1__ | __0__ | 6
 __0__ | __1__ | 8 
 
 * Solução única;
+
+### Matrizes especiais:
+* Matrizes diagonais;
+* Matrizes triangulares (superior, inferior);
+* Matrizes simétricas;
