@@ -131,7 +131,7 @@ matriz obtida a partir de I efetuando-se uma única operação elementar sobre l
     c + 2a | d + 2b
     a | b  
 
-* __Teorema (afirmações equivalentes)__:
+### __Teorema (afirmações equivalentes)__:
 
   * Dada uma matriz A nxn, as seguintes afirmações são equivalentes, isso é se uma é falsa todas são, e se todas são verdadeiras todas são;
 
@@ -237,3 +237,12 @@ matriz obtida a partir de I efetuando-se uma única operação elementar sobre l
     -40 | -16 | 9 
     13 | -5 | -3 
     5| -2 | -1 
+
+### Matrizes especiais:
+  * __Matrizes diagonais__:
+    * Apenas a diagonal é diferente de 0;
+  * __Matrizes triangulares__:
+    * Quando elementos acima da diagonal = 0 -> _Triangular Superior_;
+    * Quando elementos acima da diagonal = 0 -> _Triangular Inferior_;
+  * __Matrizes simétricas__:
+    * Se A é simétrica então transposta de A = A;
